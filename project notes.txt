@@ -1,0 +1,13 @@
+*admins
+mariam@gmail.com password:12345Mh
+sara@gmail.com password:12345Sa
+hady@gmail.com password:12345Ha
+
+*all the logout are working
+* when the admin add user open mailhug to verfy its email.
+
+*the mails sends by users is sent to all admins. 
+*anybody (gest or auth users) can sent messages.
+
+
+*even insert special items in beverages categories they will only display in special item. 
